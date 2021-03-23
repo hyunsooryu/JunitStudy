@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59435d24-342e-4a8d-9d43-2ca396670ad9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pnBlwdIaqIuxC0C3JC3jUM4fGa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.gsshop.java8" />
+      <recent name="com.gsshop.Study" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gsshop.Study" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gsshop.Study" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BddTest.BddTest">
+    <configuration name="BddTest.BddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsshop.Mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsshop.Mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.gsshop.Mockito.BddTest" />
+      <option name="METHOD_NAME" value="BddTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsshop.Mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsshop.Mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.gsshop.Mockito.MockitoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockitoTest.createStudyService3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsshop.Mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsshop.Mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.gsshop.Mockito.MockitoTest" />
+      <option name="METHOD_NAME" value="createStudyService3(com.gsshop.Study.MemberService,com.gsshop.Study.StudyRepository)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockitoTest.mockObjectCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsshop.Mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsshop.Mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.gsshop.Mockito.MockitoTest" />
+      <option name="METHOD_NAME" value="mockObjectCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockitoTest.thirdTimeStubbing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsshop.Mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsshop.Mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.gsshop.Mockito.MockitoTest" />
+      <option name="METHOD_NAME" value="thirdTimeStubbing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MockitoTest" />
+      <item itemvalue="JUnit.MockitoTest.createStudyService3" />
+      <item itemvalue="JUnit.MockitoTest.thirdTimeStubbing" />
+      <item itemvalue="JUnit.MockitoTest.mockObjectCheck" />
+      <item itemvalue="JUnit.BddTest.BddTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BddTest.BddTest" />
+        <item itemvalue="JUnit.MockitoTest.mockObjectCheck" />
+        <item itemvalue="JUnit.MockitoTest.thirdTimeStubbing" />
+        <item itemvalue="JUnit.MockitoTest.createStudyService3" />
+        <item itemvalue="JUnit.MockitoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59435d24-342e-4a8d-9d43-2ca396670ad9" name="Default Changelist" comment="" />
+      <created>1615809128784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615809128784</updated>
+      <workItem from="1615809133499" duration="7858000" />
+      <workItem from="1615902496661" duration="5568000" />
+      <workItem from="1615908248386" duration="2317000" />
+      <workItem from="1615978831536" duration="91000" />
+      <workItem from="1615987814893" duration="3303000" />
+      <workItem from="1616071128220" duration="597000" />
+      <workItem from="1616412497760" duration="9232000" />
+      <workItem from="1616498139471" duration="173000" />
+      <workItem from="1616505649213" duration="4267000" />
+      <workItem from="1616511353997" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1615813992467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615813992467" />
+    <state x="458" y="234" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1616418148245">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="234" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616418148245" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615904066546">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615904066546" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615903714685" />
+    <state x="533" y="185" key="#com.intellij.ide.util.MemberChooser" timestamp="1616414623666">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615906813250" />
+    <state x="533" y="185" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616414623666" />
+    <state x="494" y="316" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615813405842">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="494" y="316" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615813405842" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1616511344720">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1615978747058" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615908066466" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615908100084" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616511344720" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1616511344719">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1615978747058" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615908066464" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615908100083" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616511344719" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1616511344719">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1615978747058" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615908066463" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615908100083" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616511344719" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1616511344719">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1615978747058" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615908066465" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615908100084" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616511344719" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1616422765611">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616422765611" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1616422765611">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616422765611" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1616422765610">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616422765610" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1616422765611">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616422765611" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1615903335095">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615903335095" />
+    <state x="321" y="63" key="SettingsEditor" timestamp="1615908426052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="321" y="63" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615908426052" />
+    <state x="208" y="31" key="SettingsEditor/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615906468597" />
+    <state x="321" y="63" key="SettingsEditor/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1615908360723" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1616509659588">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616509659588" />
+    <state x="399" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1616505667562">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="298" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1616498139723" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615902496406" />
+    <state x="399" y="298" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616505667562" />
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615815596802">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615815596802" />
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615809486931" />
+    <state x="386" y="218" width="667" height="486" key="find.popup" timestamp="1615908285363">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="386" y="218" width="667" height="486" key="find.popup/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1615908285363" />
+    <state x="114" y="159" key="new project wizard" timestamp="1615908385665">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="159" key="new project wizard/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1615908385665" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1616420624161">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1616420624161" />
+  </component>
+</project>
